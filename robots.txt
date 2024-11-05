@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://uhatoipo.github.io/EbG/sitemap_index.txt
+Sitemap: https://uhatoipo.github.io/YyV/sitemap_index.txt
+Sitemap: https://uhatoipo.github.io/oWf/sitemap_index.txt
+Sitemap: https://uhatoipo.github.io/tQo/sitemap_index.txt
